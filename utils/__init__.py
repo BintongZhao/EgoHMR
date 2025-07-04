@@ -1,13 +1,9 @@
 import torch
 from typing import Any
 
-# Only import available modules
-try:
-    from .pose_utils import eval_pose, Evaluator
-except ImportError:
-    print("Warning: Could not import pose_utils")
-    eval_pose = None
-    Evaluator = None
+from .renderer import Renderer
+from .skeleton_renderer import SkeletonRenderer
+from .pose_utils import eval_pose, Evaluator
 
 def recursive_to(x: Any, target: torch.device):
     """

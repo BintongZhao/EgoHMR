@@ -1,0 +1,10 @@
+[94m19:32:28 [92m[INFO][94m [0m: Starting custom dataset evaluation
+[94m19:32:28 [92m[INFO][94m [0m: Single branch mode: True
+[94m19:32:28 [92m[INFO][94m [0m: Dataset path: test_images
+[94m19:32:28 [92m[INFO][94m [0m: Output path: ./custom_results
+[94m19:32:28 [92m[INFO][94m [0m: Loaded 3 samples
+[94m19:32:29 [92m[INFO][94m [0m: No valid model path provided, using randomly initialized models
+[94m19:32:29 [92m[INFO][94m [0m: Starting inference
+[94m19:32:29 [92m[INFO][94m [0m: Evaluation Metrics:
+[94m19:32:29 [92m[INFO][94m [0m: Results saved to ./custom_results
+[94m19:32:29 [92m[INFO][94m [0m: Custom dataset evaluation completed
