@@ -1,0 +1,5 @@
+[94m19:29:59 [92m[INFO][94m [0m: Starting custom dataset evaluation
+[94m19:29:59 [92m[INFO][94m [0m: Single branch mode: True
+[94m19:29:59 [92m[INFO][94m [0m: Dataset path: test_images
+[94m19:29:59 [92m[INFO][94m [0m: Output path: ./custom_results
+[94m19:29:59 [92m[INFO][94m [0m: Loaded 3 samples
