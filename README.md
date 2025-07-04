@@ -23,7 +23,10 @@ https://user-images.githubusercontent.com/86871168/228405643-47a6620b-79ae-4cae-
 - [x] <b>EgoPW Dataset</b> [[link](https://people.mpi-inf.mpg.de/~jianwang/projects/egopw/)]
 
 ## Code
-- [x] Part of the code is adapted from [[Prohmr](https://github.com/nkolot/ProHMR)] [[Stable Diffusion](https://github.com/CompVis/latent-diffusion)] 
+- [x] Part of the code is adapted from [[Prohmr](https://github.com/nkolot/ProHMR)] [[Stable Diffusion](https://github.com/CompVis/latent-diffusion)]
+
+## Documentation
+- [x] **Model Architecture Guide** [[docs/model_architecture.md](docs/model_architecture.md)] - Comprehensive documentation with visual diagrams comparing Basic and EgoHMR Enhanced SMPLDiffusion implementations 
 
 ## Citation
 If you find our paper/dataset/code useful, please consider citing:
